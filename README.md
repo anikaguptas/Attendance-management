@@ -20,3 +20,5 @@ Front-end: REACT
 Back-end : DJANGO
 
 Database : SQLite
+
+![Screenshot 2024-07-12 143806](https://github.com/user-attachments/assets/aeb62b83-d695-4aff-a7bd-d0d4e2eb83cd)
