@@ -22,3 +22,10 @@ Back-end : DJANGO
 Database : SQLite
 
 ![Screenshot 2024-07-12 143806](https://github.com/user-attachments/assets/aeb62b83-d695-4aff-a7bd-d0d4e2eb83cd)
+
+![Screenshot 2024-07-12 145206](https://github.com/user-attachments/assets/ed7b886d-4f26-443b-927a-91c2c2532809)
+
+![Screenshot 2024-07-12 145304](https://github.com/user-attachments/assets/441207aa-10a2-4426-8f7b-4c0898317f08)
+
+![Screenshot 2024-07-12 145320](https://github.com/user-attachments/assets/3c3cb777-6043-4c84-8fec-45e33a33101e)
+
